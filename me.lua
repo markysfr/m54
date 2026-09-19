@@ -49,7 +49,7 @@ local botones = {
     {nombre = "CTRL + TP",  url = "https://raw.githubusercontent.com/markysfr/ctrl-tp/refs/heads/main/ctrltp.lua"},
     {nombre = "NOCLIP",     url = "https://raw.githubusercontent.com/markysfr/noclip/refs/heads/main/noclip.lua"},
     {nombre = "FULLBRIGHT", url = "https://raw.githubusercontent.com/markysfr/fullbright/refs/heads/main/fullbright.lua"},
-    {nombre = "ESP",        url = "https://raw.githubusercontent.com/markysfr/esp-2/refs/heads/main/esp2.lua"},
+    {nombre = "ESP",        url = "https://raw.githubusercontent.com/markysfr/espfull/refs/heads/main/espnpc.lua"},
     {nombre = "X-RAY",      url = "https://raw.githubusercontent.com/markysfr/x-ray/refs/heads/main/xray.lua"}
 }
 
